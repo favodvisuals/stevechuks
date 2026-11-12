@@ -36,6 +36,7 @@ ul{
 
 a {
   text-decoration: none;
+  color: white;
 }
 
 /* Header **/
@@ -221,7 +222,8 @@ footer{
 .contact-btn {
     display: inline-block;
     padding: 14px 25px;
-    color: green;
+    color: white;
+    background-color:green;
     text-decoration: none;
     border-radius: 8px;
     font-size: 16px;
